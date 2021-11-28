@@ -23,9 +23,9 @@
  - Dart.
  - Flutter.
  
- ## Additional
+ ## Additional 💡
 
- ### If you liked the project don't forget to star 🌟 and fork 🍽 the project.
+ #### If you liked the project don't forget to star 🌟 and fork 🍽 the project.
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
 ![ForTheBadge GIT](https://forthebadge.com/images/badges/uses-git.svg)
