@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# ScreenShots
+## ScreenShots
 
 <table>
   <tr>
