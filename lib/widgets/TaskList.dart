@@ -16,24 +16,26 @@ class TaskList extends StatelessWidget {
               (context, index) {
                 final task =tasksdata.taksList[index];
 
-
-
                 return
-              tasktitle(name: task.name,
-                  isChecked: task.isdone,
-                  callbackfun: (checkboxstate) {
+              Card(
+                shadowColor: Colors.lightBlueAccent,
+                margin: EdgeInsets.symmetric(vertical: 10),
+                child: tasktitle(name: task.name,
+                    isChecked: task.isdone,
+                    callbackfun: (checkboxstate) {
 
-                   tasksdata.updateTask(task);
+                     tasksdata.updateTask(task);
 
-                   print("update");
-                },longPressCallBack:
-                  (){
-                    tasksdata.deleteTask(task);
-                    print("delete");
-                  }
+                     print("update");
+                  },longPressCallBack:
+                    (){
+                      tasksdata.deleteTask(task);
+                      print("delete");
+                    }
 
 
-                 );
+                   ),
+              );
           },
             itemCount: tasksdata.taksList.length,
           );

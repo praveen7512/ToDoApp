@@ -24,8 +24,10 @@ class tasktitle extends StatelessWidget {
     return  ListTile(
       onLongPress: longPressCallBack
 
-      ,
+      ,leading: Icon(Icons.wb_incandescent_rounded,
+                color: Colors.deepOrange,),
       title: Text(name,style: TextStyle(
+        color: Colors.black54,fontWeight: FontWeight.bold,
         decoration:isChecked?TextDecoration.lineThrough :null
       ),),
 
