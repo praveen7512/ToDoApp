@@ -7,8 +7,8 @@ A new Flutter project.
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>       Add Your Tasks</td>
+     <td>Delete Them by Swipe</td>
   </tr>
   <tr>
      <td><img src="https://user-images.githubusercontent.com/72389100/143781543-00ab7604-4794-48cd-b3e3-e0d5bf8ee371.png" width=270 height=480></td>
