@@ -1,4 +1,5 @@
-## Todo-List-App 🗒
+
+ ## Todo-List-App 🗒
 
 🚀 ▪️ Todo-list-app is an application that allows to manage a list of tasks to do. It performs adding, updating, deleting and toggling state of each task. It has minimalistic design and basic functionality. You can see it working here:
 
@@ -22,7 +23,12 @@
  - Dart.
  - Flutter.
  
- ## Features 🚀
+ ## Additional
+
+ ### If you liked the project don't forget to star 🌟 and fork 🍽 the project.
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![ForTheBadge ANDROID](https://forthebadge.com/images/badges/built-for-android.svg)
+![ForTheBadge GIT](https://forthebadge.com/images/badges/uses-git.svg)
 
 
 
