@@ -12,6 +12,20 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/72389100/143781324-22b3fb8c-b83f-4086-a74c-1b2c959784d9.png" width=300>
 
 
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/72389100/143781324-22b3fb8c-b83f-4086-a74c-1b2c959784d9.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/72389100/143781324-22b3fb8c-b83f-4086-a74c-1b2c959784d9.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+
 
 
 
