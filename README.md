@@ -5,9 +5,9 @@ A new Flutter project.
 # ScreenShots
 
 
+<img src="https://user-images.githubusercontent.com/72389100/143780973-20e7def2-d5af-48ca-a468-747ac0d9d767.png" width="48">
 
-
-![screenshot_2](https://user-images.githubusercontent.com/72389100/143780973-20e7def2-d5af-48ca-a468-747ac0d9d767.png)
+<!-- ![screenshot_2](https://user-images.githubusercontent.com/72389100/143780973-20e7def2-d5af-48ca-a468-747ac0d9d767.png) -->
 
 
 ## Getting Started
