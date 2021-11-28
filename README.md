@@ -7,7 +7,11 @@ A new Flutter project.
 
 <img src="https://user-images.githubusercontent.com/72389100/143780973-20e7def2-d5af-48ca-a468-747ac0d9d767.png" width="300">
 
-<!-- ![screenshot_2](https://user-images.githubusercontent.com/72389100/143780973-20e7def2-d5af-48ca-a468-747ac0d9d767.png) -->
+<img src="https://user-images.githubusercontent.com/72389100/143781322-123a4a97-010a-4c09-8522-89882d2eedb7.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/72389100/143781324-22b3fb8c-b83f-4086-a74c-1b2c959784d9.png" width=300>
+
+
 
 
 ## Getting Started
